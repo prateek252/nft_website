@@ -1,0 +1,46 @@
+{
+  "name": "Walmart Avatars #9",
+  "symbol": "WMA",
+  "description": "Unique Avatars for walmart's metaverse ",
+  "seller_fee_basis_points": 100,
+  "image": "image.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "topOffer",
+      "value": "None"
+    },
+    {
+      "trait_type": "other",
+      "value": "10%_cap"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "upper",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "lower",
+      "value": "red"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "sNZscSn1bhgkx6PNDQJ8TxMV7zbsASp3ScoLaDEpzE5",
+        "share": 100
+      }
+    ]
+  }
+}
